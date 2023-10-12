@@ -1,0 +1,61 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+color: white;
+}
+h1{
+    font-size: 30px;
+    font-family: trebuchet ms;
+}
+h2{
+    font-size: 60px;
+    font-family: Trebuchet Ms;
+}
+h3{
+    font-size: 20px;
+    font-family: trebuchet Ms;
+}
+h4{
+    font-family: Trebuchet Ms;
+}
+span{
+  color: darkgoldenrod;
+}
+.Social{
+    font-size: 30px;
+    margin: 0 20px;
+    padding: 5px 14px;
+    color: pink;
+    background-color: black;
+    border-radius: 50%;
+}
+.John h4{
+    color: #ff5d9e;
+}
+.content h2{
+    font-size: 30px;
+}
+.content h4{
+    font-size: 32px;
+}
+.contacts{
+    font-size: 30px;
+    font-family: trebuchet Ms;
+}
+.heading{
+    background-color: #e7eaf6;
+    padding: 80px 80px;
+}
+.uppy{
+    width: 50px;
+}
+.beauty{
+    border-radius: 20px;
+}
+.Girl{
+    width: 300px;
+}
+.reach a:hover{
+    color: blue;
+}
